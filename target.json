@@ -1,0 +1,9 @@
+[
+  {"status": "root",   "url": "https://notsecure.in/"},
+  {"status": "200",    "url": "https://notsecure.in/"},
+  {"status": "static", "url": "https://notsecure.in/favicon.ico"},
+  {"status": "301",    "url": "https://notsecure.in/dashboard"},
+  {"status": "302",    "url": "https://notsecure.in/login"},
+  {"status": "403",    "url": "https://notsecure.in/abc"},
+  {"status": "404",    "url": "https://notsecure.in/notexist"}
+]
