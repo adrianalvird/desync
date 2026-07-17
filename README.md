@@ -1,5 +1,5 @@
 # About this framework :
-This framework is just a basic desync detector with very high false positive rate . It's just for develope purpose only .
+This framework is just a basic desync detector with very high false positive rate . It's just for testing purpose only .
 
 # Build :
 $ go mod init desync
